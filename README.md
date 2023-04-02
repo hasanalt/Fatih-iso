@@ -1,6 +1,7 @@
 # Fatih-iso
 
 Okullara Özel Olarak Yapılmış Windows 11 isosudur
+
 -- Güncellemeler --
 
 Bu İlk İso Dosyam Olduğu İçin Küçük Hatalar Olabilir Lütfen Hataları Bildirin : https://github.com/hasanalt/Fatih-iso/issues
