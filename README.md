@@ -1,6 +1,11 @@
 # Fatih-iso
 
 Okullara Özel Olarak Yapılmış Windows 11 isosudur
+-- Güncellemeler --
+
+Bu İlk İso Dosyam Olduğu İçin Küçük Hatalar Olabilir Lütfen Hataları Bildirin : https://github.com/hasanalt/Fatih-iso/issues
+
+İso Dosyasına Her Yıl Büyük Bir Güncelleme Getirmeyi Planlıyorum Eğer İso Dosyası Çok Beğenilirse Çalışmalarımı Hızlandırabilirim
 
 -- Gelişmiş Temizleme --
 
@@ -27,3 +32,5 @@ Sistemin Bu Kadar Az Ram Kullanmasının Sebebi Telemetri Servislerinin Devre D�
 Kilit Programlarıyla Uyumlu Mudur ?
 
 Evet Uyumludur.
+
+
