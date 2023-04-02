@@ -20,7 +20,7 @@ Windows Defender Devre Dışı Bırakılmış mı ?
 
 Hayır Windows Defender Devre Dışı Değildir Ayrıca Windows Defenderi Kapatmak Neredeyse İmkansızdır Windows Defenderin Ayar Sayfasını Bilerek Bozdumki Kullanıcılar Admin Şifrelerine Sahip Olsa Bile Windows Defenderi Devre Dışı Bırakamaz.
 
-Nasıl Bu Kadar Az Ram Kullanıyor Normal Windows 11 Boştayken 4 GB Ram Kullanıyor.
+Nasıl Bu Kadar Az Ram Kullanıyor Normal Windows 11 Boştayken 4 GB Ram Kullanıyor
 
 Sistemin Bu Kadar Az Ram Kullanmasının Sebebi Telemetri Servislerinin Devre Dışı Bırakılmasıdır Ve Buraya Sığdıramayacağım Kadar Gereksiz Uygulama ve Servisler Silinmiştir.
 
