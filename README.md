@@ -4,7 +4,7 @@ Okullara Özel Olarak Yapılmış Windows 11 isosudur
 
 -- Güncellemeler --
 
-Bu İlk İso Dosyam Olduğu İçin Küçük Hatalar Olabilir Lütfen Hataları Bildirin : https://github.com/hasanalt/Fatih-iso/issues
+Bu İlk İso Dosyam Olduğu İçin Küçük Hatalar Olabilir Lütfen Hataları Ve Eklemem Gerektiği Dosyaları Bana Bildirin : https://github.com/hasanalt/Fatih-iso/issues
 
 İso Dosyasına Her Yıl Büyük Bir Güncelleme Getirmeyi Planlıyorum Eğer İso Dosyası Çok Beğenilirse Çalışmalarımı Hızlandırabilirim
 
